@@ -120,7 +120,7 @@ Proper technology risk management entails identifying potential technology-relat
 
 
 ## Teacher 
-- Glide Valeria Rodriguez Jimenez
+- Selene Marisol Martínez Ramírez
 
 ## Teaching Assistants
 - Itzel Azucena Delgado Díaz
