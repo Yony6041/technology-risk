@@ -186,6 +186,15 @@ This is an example of how to list things you need to use the software and how to
  <img src="https://media.tenor.com/vHi81kJ7ad0AAAAM/homework-time.gif" width="500px">
 </div>
 
+Click on the following homeworks to go to homework pdf:
+
+- [Homework 1](./homework/Tarea_Transferencia_Technologica.pdf)
+- [Homework 2](./homework/Your_Second_Homework_File.pdf)
+- 
+
+
+
+
 ## Practice 1
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
